@@ -32,7 +32,7 @@ Figure. 2 - The best value for 'k' was found to be about 4 using an Elbow curve.
 
 ![](https://github.com/jkenning/Cryptocurrencies/blob/main/Images/clustered_df.png)
 
-Figure. 3 - The data was clustered using 4 clusteres and made to fit the model and concatenated with the original DataFrame.
+Figure. 3 - The data was clustered using 4 clusters and made to fit the model and concatenated with the original DataFrame.
 
 ![](https://github.com/jkenning/Cryptocurrencies/blob/main/Images/3D_scatter_w_clusters.png)
 
