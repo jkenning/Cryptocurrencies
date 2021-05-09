@@ -14,9 +14,9 @@ This analysis could be used to help an investment bank create a grouped classifi
 
 Tools and software: Python 3.7.9, Jupyter Notebook 6.1.4, pandas, hvplot, adn sklearn libraries, Visual Studio Code 1.54.3
 
-Dataset: ["Crypto Data"](https://github.com/jkenning/Cryptocurrencies/blob/main/Resources/crypto_data.csv)
+Dataset: [Crypto Data](https://github.com/jkenning/Cryptocurrencies/blob/main/Resources/crypto_data.csv)
 
-Analysis: ["Crypto Clustering"](https://github.com/jkenning/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
+Analysis: [Crypto Clustering](https://github.com/jkenning/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
 
 ## Summary of Results
 
